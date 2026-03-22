@@ -1,0 +1,18 @@
+# Python environments
+venv/
+env/
+.env
+__pycache__/
+*.pyc
+
+# IDEs and OS
+.vscode/
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+old_gitignore_folder/
